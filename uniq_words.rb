@@ -20,7 +20,7 @@ def uniq_words(file)
       b[1] <=> a[1]
     end
   end
-  p pairs.length
+
   pairs
 end
 
